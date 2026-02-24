@@ -1,0 +1,46 @@
+﻿# =========================
+# Build results
+# =========================
+bin/
+obj/
+out/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.rsuser
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio (if someone opens it there)
+.vs/
+
+# Test results
+TestResults/
+
+# Publish output
+publish/
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
